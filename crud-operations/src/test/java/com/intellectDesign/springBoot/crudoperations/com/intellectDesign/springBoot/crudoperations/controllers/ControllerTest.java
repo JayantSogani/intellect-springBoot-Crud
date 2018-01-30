@@ -1,4 +1,4 @@
-package com.intellectDesign.springBoot.crudoperations;
+package com.intellectDesign.springBoot.crudoperations.com.intellectDesign.springBoot.crudoperations.controllers;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
